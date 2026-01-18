@@ -46,7 +46,6 @@
   <tr>
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=6t9ajs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=6t9ajs&theme=calm_pink&hide_border=false" />
     </td>
